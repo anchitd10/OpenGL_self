@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OpenGL\\Lab\\Hut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B636A3E-D57F-498B-AB71-1E155379600A}|Hut\\Hut.vcxproj|E:\\OpenGL\\Lab\\Hut\\Hut\\hut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B636A3E-D57F-498B-AB71-1E155379600A}|Hut\\Hut.vcxproj|solutionrelative:Hut\\hut.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hut.cpp",
+              "DocumentMoniker": "E:\\OpenGL\\Lab\\Hut\\Hut\\hut.cpp",
+              "RelativeDocumentMoniker": "Hut\\hut.cpp",
+              "ToolTip": "E:\\OpenGL\\Lab\\Hut\\Hut\\hut.cpp",
+              "RelativeToolTip": "Hut\\hut.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAGEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-11T20:00:04.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
