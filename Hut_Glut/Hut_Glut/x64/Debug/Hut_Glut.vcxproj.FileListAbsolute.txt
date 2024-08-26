@@ -1,1 +1,2 @@
 E:\OpenGL\Lab\Hut_Glut\Hut_Glut\x64\Debug\Hut_Glut.vcxproj.Up2Date
+E:\OpenGL\Lab\OpenGL_self\Hut_Glut\Hut_Glut\x64\Debug\Hut_Glut.vcxproj.Up2Date

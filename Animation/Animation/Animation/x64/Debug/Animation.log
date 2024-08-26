@@ -1,0 +1,14 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\Animation\Animation\Animation\main.cpp(55,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Animation\Animation\Animation\main.cpp(56,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Animation\Animation\Animation\main.cpp(66,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Animation\Animation\Animation\main.cpp(67,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Animation\Animation\Animation\main.cpp(121,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Animation\Animation\Animation\main.cpp(122,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Animation\Animation\Animation\main.cpp(131,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Animation\Animation\Animation\main.cpp(132,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Animation\Animation\Animation\main.cpp(195,9): warning C4805: '!=': unsafe mix of type 'float' and type 'bool' in operation
+E:\OpenGL\Lab\OpenGL_self\Animation\Animation\Animation\main.cpp(198,9): warning C4805: '!=': unsafe mix of type 'float' and type 'bool' in operation
+  Animation.vcxproj -> E:\OpenGL\Lab\OpenGL_self\Animation\Animation\x64\Debug\Animation.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

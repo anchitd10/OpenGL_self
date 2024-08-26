@@ -1,6 +1,10 @@
 ﻿  main.cpp
-E:\OpenGL\Lab\Hut_Glut\Hut_Glut\main.cpp(13,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-E:\OpenGL\Lab\Hut_Glut\Hut_Glut\main.cpp(14,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-  Hut_Glut.vcxproj -> E:\OpenGL\Lab\Hut_Glut\x64\Debug\Hut_Glut.exe
+E:\OpenGL\Lab\OpenGL_self\Hut_Glut\Hut_Glut\main.cpp(47,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Hut_Glut\Hut_Glut\main.cpp(48,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Hut_Glut\Hut_Glut\main.cpp(101,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Hut_Glut\Hut_Glut\main.cpp(102,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Hut_Glut\Hut_Glut\main.cpp(111,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Hut_Glut\Hut_Glut\main.cpp(112,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Hut_Glut.vcxproj -> E:\OpenGL\Lab\OpenGL_self\Hut_Glut\x64\Debug\Hut_Glut.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.

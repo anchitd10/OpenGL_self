@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\OpenGL\\Lab\\Hut_Glut\\",
+  "WorkspaceRootPath": "E:\\OpenGL\\Lab\\OpenGL_self\\Hut_Glut\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41DB3470-67F7-48CB-A2AA-71B4739DB0F7}|Hut_Glut\\Hut_Glut.vcxproj|E:\\OpenGL\\Lab\\Hut_Glut\\Hut_Glut\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{41DB3470-67F7-48CB-A2AA-71B4739DB0F7}|Hut_Glut\\Hut_Glut.vcxproj|E:\\OpenGL\\Lab\\OpenGL_self\\Hut_Glut\\Hut_Glut\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{41DB3470-67F7-48CB-A2AA-71B4739DB0F7}|Hut_Glut\\Hut_Glut.vcxproj|solutionrelative:Hut_Glut\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "E:\\OpenGL\\Lab\\Hut_Glut\\Hut_Glut\\main.cpp",
+              "DocumentMoniker": "E:\\OpenGL\\Lab\\OpenGL_self\\Hut_Glut\\Hut_Glut\\main.cpp",
               "RelativeDocumentMoniker": "Hut_Glut\\main.cpp",
-              "ToolTip": "E:\\OpenGL\\Lab\\Hut_Glut\\Hut_Glut\\main.cpp",
+              "ToolTip": "E:\\OpenGL\\Lab\\OpenGL_self\\Hut_Glut\\Hut_Glut\\main.cpp",
               "RelativeToolTip": "Hut_Glut\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAIwJUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-12T07:57:17.553Z",
               "EditorCaption": ""
