@@ -1,13 +1,13 @@
 ﻿  main.cpp
-E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(77,15): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
-E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(77,15): warning C4244:         with
-E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(77,15): warning C4244:         [
-E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(77,15): warning C4244:             _Ty=float
-E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(77,15): warning C4244:         ]
-E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(108,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(109,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(114,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(115,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(26,15): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(26,15): warning C4244:         with
+E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(26,15): warning C4244:         [
+E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(26,15): warning C4244:             _Ty=float
+E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(26,15): warning C4244:         ]
+E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(71,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(72,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(77,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\DDA_Line\main.cpp(78,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   DDA_Line.vcxproj -> E:\OpenGL\Lab\OpenGL_self\DDA Line\DDA_Line\x64\Debug\DDA_Line.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
