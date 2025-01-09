@@ -25,12 +25,20 @@ void drawLine() {
 
     int steps = max(abs(dx), abs(dy));
 
-    //float xIncrement = dx / steps;
-    //float yIncrement = dy / steps;
+    float xIncrement = dx / steps;
+    float yIncrement = dy / steps;
 
     float x = x1_coord;
     float y = y1_coord;
 
+    glBegin(GL_POINTS);
+    for (int i = 0; i <= steps; i++) {
+        glVertex2f(x, y);
+        x += xIncrement;
+        y += yIncrement;
+    }
+
+    /*
     glBegin(GL_POINTS);
     for (int i = 0; i <= steps; i++) {
         glVertex2f(x, y);
@@ -43,6 +51,7 @@ void drawLine() {
             y -= 1;
         }
     }
+    */
     glEnd();
 
     string coords1 = "(" + to_string((int)x1_coord) + "," + to_string((int)y1_coord) + ")";

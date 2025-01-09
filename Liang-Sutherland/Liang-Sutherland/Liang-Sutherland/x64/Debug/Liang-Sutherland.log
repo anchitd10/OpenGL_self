@@ -1,0 +1,42 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(88,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(88,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(89,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(89,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(135,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(135,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(140,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(140,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(155,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(155,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(156,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(156,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(259,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(259,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(260,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(260,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(269,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(269,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(270,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(270,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(271,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(271,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(272,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(272,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(274,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(275,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(278,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(279,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(295,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(295,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(303,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(303,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(304,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(304,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(417,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(417,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(418,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\Liang-Sutherland\main.cpp(418,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Liang-Sutherland.vcxproj -> E:\OpenGL\Lab\OpenGL_self\Liang-Sutherland\Liang-Sutherland\x64\Debug\Liang-Sutherland.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

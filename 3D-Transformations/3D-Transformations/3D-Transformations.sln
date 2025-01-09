@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3D-Transformations", "3D-Transformations\3D-Transformations.vcxproj", "{7070D9E3-BA35-4017-9B6D-11BE3F7D0225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7070D9E3-BA35-4017-9B6D-11BE3F7D0225}.Debug|x64.ActiveCfg = Debug|x64
+		{7070D9E3-BA35-4017-9B6D-11BE3F7D0225}.Debug|x64.Build.0 = Debug|x64
+		{7070D9E3-BA35-4017-9B6D-11BE3F7D0225}.Debug|x86.ActiveCfg = Debug|Win32
+		{7070D9E3-BA35-4017-9B6D-11BE3F7D0225}.Debug|x86.Build.0 = Debug|Win32
+		{7070D9E3-BA35-4017-9B6D-11BE3F7D0225}.Release|x64.ActiveCfg = Release|x64
+		{7070D9E3-BA35-4017-9B6D-11BE3F7D0225}.Release|x64.Build.0 = Release|x64
+		{7070D9E3-BA35-4017-9B6D-11BE3F7D0225}.Release|x86.ActiveCfg = Release|Win32
+		{7070D9E3-BA35-4017-9B6D-11BE3F7D0225}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B50B43DC-0C85-4FD0-BD62-379E6A6F601E}
+	EndGlobalSection
+EndGlobal

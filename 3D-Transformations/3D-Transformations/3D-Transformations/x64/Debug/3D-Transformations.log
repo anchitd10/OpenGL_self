@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\3D-Transformations\3D-Transformations\3D-Transformations\main.cpp(77,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\3D-Transformations\3D-Transformations\3D-Transformations\main.cpp(243,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  3D-Transformations.vcxproj -> E:\OpenGL\Lab\OpenGL_self\3D-Transformations\3D-Transformations\x64\Debug\3D-Transformations.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

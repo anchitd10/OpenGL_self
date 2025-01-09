@@ -1,0 +1,12 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\2D\2D\2D\main.cpp(242,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\2D\2D\2D\main.cpp(325,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL\Lab\OpenGL_self\2D\2D\2D\main.cpp(325,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL\Lab\OpenGL_self\2D\2D\2D\main.cpp(325,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\OpenGL\Lab\OpenGL_self\2D\2D\2D\main.cpp(330,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\2D\2D\2D\main.cpp(331,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\2D\2D\2D\main.cpp(334,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\2D\2D\2D\main.cpp(335,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  2D.vcxproj -> E:\OpenGL\Lab\OpenGL_self\2D\2D\x64\Debug\2D.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

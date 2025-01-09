@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OpenGL\\Lab\\OpenGL_self\\Filling\\Boundary_Flood\\Boundary_Flood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6988BDA6-547D-43DE-9523-4AB376EE31CF}|Boundary_Flood\\Boundary_Flood.vcxproj|E:\\OpenGL\\Lab\\OpenGL_self\\Filling\\Boundary_Flood\\Boundary_Flood\\Boundary_Flood\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6988BDA6-547D-43DE-9523-4AB376EE31CF}|Boundary_Flood\\Boundary_Flood.vcxproj|solutionrelative:Boundary_Flood\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\OpenGL\\Lab\\OpenGL_self\\Filling\\Boundary_Flood\\Boundary_Flood\\Boundary_Flood\\main.cpp",
+              "RelativeDocumentMoniker": "Boundary_Flood\\main.cpp",
+              "ToolTip": "E:\\OpenGL\\Lab\\OpenGL_self\\Filling\\Boundary_Flood\\Boundary_Flood\\Boundary_Flood\\main.cpp",
+              "RelativeToolTip": "Boundary_Flood\\main.cpp",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAuwO8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T10:00:26.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

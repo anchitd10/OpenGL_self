@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OpenGL\\Lab\\OpenGL_self\\Beizer Curve\\Beizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB473D70-EBAA-4C14-8AA6-3C664D133875}|Beizer\\Beizer.vcxproj|E:\\OpenGL\\Lab\\OpenGL_self\\Beizer Curve\\Beizer\\Beizer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB473D70-EBAA-4C14-8AA6-3C664D133875}|Beizer\\Beizer.vcxproj|solutionrelative:Beizer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\OpenGL\\Lab\\OpenGL_self\\Beizer Curve\\Beizer\\Beizer\\main.cpp",
+              "RelativeDocumentMoniker": "Beizer\\main.cpp",
+              "ToolTip": "E:\\OpenGL\\Lab\\OpenGL_self\\Beizer Curve\\Beizer\\Beizer\\main.cpp",
+              "RelativeToolTip": "Beizer\\main.cpp",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAAAL0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T19:00:12.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

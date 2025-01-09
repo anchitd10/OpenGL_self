@@ -1,0 +1,22 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(30,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(31,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(39,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(40,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(43,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(43,24): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(52,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(53,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(56,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(56,24): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(67,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(67,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(68,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(68,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(139,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(139,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(140,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\Bresenham_DDA(SubWindow)\main.cpp(140,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bresenham_DDA(SubWindow).vcxproj -> E:\OpenGL\Lab\OpenGL_self\Bresenham_DDA\Bresenham_DDA(SubWindow)\x64\Debug\Bresenham_DDA(SubWindow).exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

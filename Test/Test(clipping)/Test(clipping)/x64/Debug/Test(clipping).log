@@ -1,0 +1,46 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(54,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(55,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(63,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(64,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(67,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(67,24): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(76,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(77,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(80,27): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(80,24): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(91,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(91,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(92,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(92,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(102,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(102,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(103,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(103,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(104,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(104,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(105,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(105,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(107,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(108,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(111,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(112,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(204,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(204,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(205,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(205,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(214,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(214,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(215,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(215,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(216,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(216,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(217,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(217,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(219,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(220,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(223,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\Test(clipping)\main.cpp(224,65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Test(clipping).vcxproj -> E:\OpenGL\Lab\OpenGL_self\Test\Test(clipping)\x64\Debug\Test(clipping).exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

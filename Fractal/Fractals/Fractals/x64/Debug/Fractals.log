@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\Fractal\Fractals\Fractals\main.cpp(69,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Fractal\Fractals\Fractals\main.cpp(71,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Fractal\Fractals\Fractals\main.cpp(72,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Fractals.vcxproj -> E:\OpenGL\Lab\OpenGL_self\Fractal\Fractals\x64\Debug\Fractals.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

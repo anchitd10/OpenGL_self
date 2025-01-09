@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\3D-GUI\3D-GUI\3D-GUI\main.cpp(114,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\3D-GUI\3D-GUI\3D-GUI\main.cpp(334,44): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\OpenGL\Lab\OpenGL_self\3D-GUI\3D-GUI\3D-GUI\main.cpp(352,21): warning C4101: 'shz': unreferenced local variable
+  3D-GUI.vcxproj -> E:\OpenGL\Lab\OpenGL_self\3D-GUI\3D-GUI\x64\Debug\3D-GUI.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

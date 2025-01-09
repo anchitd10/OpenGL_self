@@ -1,0 +1,10 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\Ellipse(Mid-Point)\Ellipse(Mid-Point)\Ellipse(Mid-Point)\main.cpp(45,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Ellipse(Mid-Point)\Ellipse(Mid-Point)\Ellipse(Mid-Point)\main.cpp(68,61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Ellipse(Mid-Point)\Ellipse(Mid-Point)\Ellipse(Mid-Point)\main.cpp(120,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Ellipse(Mid-Point)\Ellipse(Mid-Point)\Ellipse(Mid-Point)\main.cpp(120,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Ellipse(Mid-Point)\Ellipse(Mid-Point)\Ellipse(Mid-Point)\main.cpp(126,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Ellipse(Mid-Point)\Ellipse(Mid-Point)\Ellipse(Mid-Point)\main.cpp(126,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Ellipse(Mid-Point).vcxproj -> E:\OpenGL\Lab\OpenGL_self\Ellipse(Mid-Point)\Ellipse(Mid-Point)\x64\Debug\Ellipse(Mid-Point).exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

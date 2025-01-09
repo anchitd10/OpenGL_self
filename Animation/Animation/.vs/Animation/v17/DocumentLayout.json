@@ -14,8 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +36,7 @@
               "RelativeDocumentMoniker": "Animation\\main.cpp",
               "ToolTip": "E:\\OpenGL\\Lab\\OpenGL_self\\Animation\\Animation\\Animation\\main.cpp",
               "RelativeToolTip": "Animation\\main.cpp",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAAALYAAAAFAAAA",
+              "ViewState": "AQIAANkAAAAAAAAAAAAAALYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-14T09:20:33.8Z",
               "EditorCaption": ""

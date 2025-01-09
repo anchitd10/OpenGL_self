@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\Circle_Mid-Point\Circle_Mid-Point\Circle_Mid-Point\main.cpp(68,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Circle_Mid-Point.vcxproj -> E:\OpenGL\Lab\OpenGL_self\Circle_Mid-Point\Circle_Mid-Point\x64\Debug\Circle_Mid-Point.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

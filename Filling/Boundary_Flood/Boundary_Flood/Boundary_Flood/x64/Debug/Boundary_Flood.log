@@ -1,0 +1,17 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(58,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(82,61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(175,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(175,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(181,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(181,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(216,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(216,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(293,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(313,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(345,28): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(345,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\Boundary_Flood\main.cpp(345,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Boundary_Flood.vcxproj -> E:\OpenGL\Lab\OpenGL_self\Filling\Boundary_Flood\Boundary_Flood\x64\Debug\Boundary_Flood.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
