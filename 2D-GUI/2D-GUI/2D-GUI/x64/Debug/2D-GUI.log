@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\OpenGL\Lab\OpenGL_self\2D-GUI\2D-GUI\2D-GUI\main.cpp(102,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  2D-GUI.vcxproj -> E:\OpenGL\Lab\OpenGL_self\2D-GUI\2D-GUI\x64\Debug\2D-GUI.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
